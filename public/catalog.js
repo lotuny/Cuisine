@@ -1,0 +1,210 @@
+export const bookCatalog = {
+  "series": "中国名菜谱",
+  "publisher": "中国财政经济出版社",
+  "checkedOn": "2026-10-21",
+  "complete": false,
+  "scope": "1980—1990年代地方风味分册；未混入早期分辑本、《中国菜谱》或《中国名菜》其他系列。",
+  "knownVolumes": 18,
+  "importedNameCount": 331,
+  "newDishCount": 330,
+  "volumes": [
+    {
+      "id": "sichuan",
+      "title": "中国名菜谱·四川风味",
+      "region": "四川",
+      "cuisine": "sichuan",
+      "isbn": "9787500512684",
+      "url": "https://book.douban.com/subject/5420206/",
+      "coverage": "metadata-only",
+      "coverageNote": "已核实分册书目，尚未获得可核对的完整菜品目录。",
+      "importedCount": 0
+    },
+    {
+      "id": "cantonese",
+      "title": "中国名菜谱·广东风味",
+      "region": "广东",
+      "cuisine": "cantonese",
+      "isbn": "9787500513667",
+      "url": "https://book.douban.com/subject/36044373/",
+      "coverage": "metadata-only",
+      "coverageNote": "已核实分册书目，尚未获得可核对的完整菜品目录。",
+      "importedCount": 0
+    },
+    {
+      "id": "shandong",
+      "title": "中国名菜谱·山东风味",
+      "region": "山东",
+      "cuisine": "shandong",
+      "isbn": "9787500510598",
+      "url": "https://book.douban.com/subject/20391487/",
+      "coverage": "public-toc",
+      "coverageNote": "已导入公开书目目录中的菜名，尚未逐页核对纸书及做法。",
+      "importedCount": 269
+    },
+    {
+      "id": "jiangsu",
+      "title": "中国名菜谱·江苏风味",
+      "region": "江苏",
+      "cuisine": "jiangsu",
+      "isbn": "9787500510505",
+      "url": "https://book.douban.com/subject/35881500/",
+      "coverage": "metadata-only",
+      "coverageNote": "已核实分册书目，尚未获得可核对的完整菜品目录。",
+      "importedCount": 0
+    },
+    {
+      "id": "zhejiang",
+      "title": "中国名菜谱·浙江风味",
+      "region": "浙江",
+      "cuisine": "zhejiang",
+      "isbn": "9787500502494",
+      "url": "https://book.douban.com/subject/20391490/",
+      "coverage": "partial-toc",
+      "coverageNote": "仅导入公开预览可见的部分目录，后续条目待补充。",
+      "importedCount": 35
+    },
+    {
+      "id": "fujian",
+      "title": "中国名菜谱·福建风味",
+      "region": "福建",
+      "cuisine": "fujian",
+      "isbn": "9787500501824",
+      "url": "https://book.douban.com/subject/4119259/",
+      "coverage": "metadata-only",
+      "coverageNote": "已核实分册书目，尚未获得可核对的完整菜品目录。",
+      "importedCount": 0
+    },
+    {
+      "id": "hunan",
+      "title": "中国名菜谱·湖南风味",
+      "region": "湖南",
+      "cuisine": "hunan",
+      "isbn": "9787500502135",
+      "url": "https://book.douban.com/subject/5420208/",
+      "coverage": "metadata-only",
+      "coverageNote": "已核实分册书目，尚未获得可核对的完整菜品目录。",
+      "importedCount": 0
+    },
+    {
+      "id": "anhui",
+      "title": "中国名菜谱·安徽风味",
+      "region": "安徽",
+      "cuisine": "anhui",
+      "isbn": "9787500501848",
+      "url": "https://book.douban.com/subject/20391489/",
+      "coverage": "metadata-only",
+      "coverageNote": "已核实分册书目，尚未获得可核对的完整菜品目录。",
+      "importedCount": 0
+    },
+    {
+      "id": "beijing",
+      "title": "中国名菜谱·北京风味",
+      "region": "北京",
+      "cuisine": "beijing",
+      "isbn": "9787500501831",
+      "url": "https://book.douban.com/subject/4119251/",
+      "coverage": "partial-toc",
+      "coverageNote": "仅导入公开预览可见的部分目录，后续条目待补充。",
+      "importedCount": 12
+    },
+    {
+      "id": "tianjin",
+      "title": "中国名菜谱·天津风味",
+      "region": "天津",
+      "cuisine": "tianjin",
+      "isbn": "9787500521136",
+      "url": "https://book.douban.com/subject/5420205/",
+      "coverage": "metadata-only",
+      "coverageNote": "已核实分册书目，尚未获得可核对的完整菜品目录。",
+      "importedCount": 0
+    },
+    {
+      "id": "shanghai",
+      "title": "中国名菜谱·上海风味",
+      "region": "上海",
+      "cuisine": "shanghai",
+      "isbn": "9787500517306",
+      "url": "https://book.douban.com/subject/35881503/",
+      "coverage": "metadata-only",
+      "coverageNote": "已核实分册书目，尚未获得可核对的完整菜品目录。",
+      "importedCount": 0
+    },
+    {
+      "id": "hubei",
+      "title": "中国名菜谱·湖北风味",
+      "region": "湖北",
+      "cuisine": "hubei",
+      "isbn": "9787500508557",
+      "url": "https://book.douban.com/subject/20391488/",
+      "coverage": "metadata-only",
+      "coverageNote": "已核实分册书目，尚未获得可核对的完整菜品目录。",
+      "importedCount": 0
+    },
+    {
+      "id": "henan",
+      "title": "中国名菜谱·河南风味",
+      "region": "河南",
+      "cuisine": "henan",
+      "isbn": "9787500511168",
+      "url": "https://book.douban.com/subject/20391491/",
+      "coverage": "partial-toc",
+      "coverageNote": "仅导入公开预览可见的部分目录，后续条目待补充。",
+      "importedCount": 15
+    },
+    {
+      "id": "shaanxi",
+      "title": "中国名菜谱·陕西风味",
+      "region": "陕西",
+      "cuisine": "shaanxi",
+      "isbn": "9787500517351",
+      "url": "https://book.douban.com/subject/3934760/",
+      "coverage": "metadata-only",
+      "coverageNote": "已核实分册书目，尚未获得可核对的完整菜品目录。",
+      "importedCount": 0
+    },
+    {
+      "id": "yunnan",
+      "title": "中国名菜谱·云南风味",
+      "region": "云南",
+      "cuisine": "yunnan",
+      "isbn": "9787500520726",
+      "url": "https://book.douban.com/subject/35881501/",
+      "coverage": "metadata-only",
+      "coverageNote": "已核实分册书目，尚未获得可核对的完整菜品目录。",
+      "importedCount": 0
+    },
+    {
+      "id": "liaoning",
+      "title": "中国名菜谱·辽宁风味",
+      "region": "辽宁",
+      "cuisine": "liaoning",
+      "isbn": "9787500527473",
+      "url": "https://book.douban.com/subject/35881499/",
+      "coverage": "metadata-only",
+      "coverageNote": "已核实分册书目，尚未获得可核对的完整菜品目录。",
+      "importedCount": 0
+    },
+    {
+      "id": "heilongjiang",
+      "title": "中国名菜谱·黑龙江风味",
+      "region": "黑龙江",
+      "cuisine": "heilongjiang",
+      "isbn": "9787500527367",
+      "url": "https://book.douban.com/subject/35881502/",
+      "coverage": "metadata-only",
+      "coverageNote": "已核实分册书目，尚未获得可核对的完整菜品目录。",
+      "importedCount": 0
+    },
+    {
+      "id": "vegetarian",
+      "title": "中国名菜谱·素菜",
+      "region": null,
+      "cuisine": null,
+      "isbn": "9787500518839",
+      "url": "https://book.douban.com/subject/5420207/",
+      "coverage": "metadata-only",
+      "coverageNote": "已核实分册书目，尚未获得可核对的完整菜品目录。",
+      "importedCount": 0
+    }
+  ]
+};

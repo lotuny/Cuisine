@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#f7f6f2">
+    <meta name="description" content="探索八大菜系与家常菜，学习经典菜的做法，寻找地方餐馆，收藏自己的餐桌滋味。">
+    <title>味集 — 一餐一味，寻味中国</title>
+    <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='16' fill='%2396362e'/%3E%3Ctext x='32' y='44' text-anchor='middle' font-size='41' fill='white'%3E味%3C/text%3E%3C/svg%3E">
+    <link rel="stylesheet" href="./styles.css">
+    <script type="module" src="./app.js"></script>
+  </head>
+  <body>
+    <a class="skip-link" href="#main">跳到主要内容</a>
+    <div class="app-shell">
+      <aside class="sidebar" id="sidebar"></aside>
+      <div class="workspace">
+        <header class="topbar" id="topbar"></header>
+        <main id="main" tabindex="-1"></main>
+        <footer class="page-footer"><span>因热爱中餐，记录每一份好味道。</span><span>好好吃饭 · 好好生活</span></footer>
+      </div>
+    </div>
+    <dialog id="detail-dialog" class="detail-dialog" aria-label="菜品详情"></dialog>
+    <dialog id="collection-dialog" class="small-dialog" aria-label="新建收藏夹"></dialog>
+    <div id="toast" class="toast" role="status" aria-live="polite"></div>
+  </body>
+</html>

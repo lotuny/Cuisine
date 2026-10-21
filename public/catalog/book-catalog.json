@@ -1,0 +1,2611 @@
+{
+  "series": "中国名菜谱",
+  "publisher": "中国财政经济出版社",
+  "checkedOn": "2026-10-21",
+  "complete": false,
+  "scope": "1980—1990年代地方风味分册；未混入早期分辑本、《中国菜谱》或《中国名菜》其他系列。",
+  "knownVolumes": 18,
+  "importedNameCount": 331,
+  "newDishCount": 330,
+  "volumes": [
+    {
+      "id": "sichuan",
+      "title": "中国名菜谱·四川风味",
+      "region": "四川",
+      "cuisine": "sichuan",
+      "isbn": "9787500512684",
+      "url": "https://book.douban.com/subject/5420206/",
+      "coverage": "metadata-only",
+      "coverageNote": "已核实分册书目，尚未获得可核对的完整菜品目录。",
+      "entries": [],
+      "importedCount": 0
+    },
+    {
+      "id": "cantonese",
+      "title": "中国名菜谱·广东风味",
+      "region": "广东",
+      "cuisine": "cantonese",
+      "isbn": "9787500513667",
+      "url": "https://book.douban.com/subject/36044373/",
+      "coverage": "metadata-only",
+      "coverageNote": "已核实分册书目，尚未获得可核对的完整菜品目录。",
+      "entries": [],
+      "importedCount": 0
+    },
+    {
+      "id": "shandong",
+      "title": "中国名菜谱·山东风味",
+      "region": "山东",
+      "cuisine": "shandong",
+      "isbn": "9787500510598",
+      "url": "https://book.douban.com/subject/20391487/",
+      "coverage": "public-toc",
+      "coverageNote": "已导入公开书目目录中的菜名，尚未逐页核对纸书及做法。",
+      "entries": [
+        {
+          "name": "鹌鹑三味",
+          "section": "三、禽蛋菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：三、禽蛋菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "熬黄花鱼",
+          "section": "四、水产菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：四、水产菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "八宝梨罐",
+          "section": "五、植物菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：五、植物菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "八宝原壳鲜贝",
+          "section": "一、山珍海味菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：一、山珍海味菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "八仙瑶池聚会",
+          "section": "六、其他菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：六、其他菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "扒鲍鱼冬瓜球",
+          "section": "一、山珍海味菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：一、山珍海味菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "扒鲍鱼芦笋",
+          "section": "一、山珍海味菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：一、山珍海味菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "扒酿海参",
+          "section": "一、山珍海味菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：一、山珍海味菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "扒牛肉条",
+          "section": "二、肉菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：二、肉菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "扒熊掌围龙眼鲍鱼",
+          "section": "一、山珍海味菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：一、山珍海味菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "扒原壳湖蟹",
+          "section": "四、水产菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：四、水产菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "拔丝空心小枣",
+          "section": "五、植物菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：五、植物菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "拔丝山药",
+          "section": "五、植物菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：五、植物菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "拔丝珍珠苹果",
+          "section": "五、植物菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：五、植物菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "白扒鱼翅",
+          "section": "一、山珍海味菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：一、山珍海味菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "白汁酿鱼",
+          "section": "四、水产菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：四、水产菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "白汁裙边",
+          "section": "一、山珍海味菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：一、山珍海味菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "百花大虾",
+          "section": "四、水产菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：四、水产菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "百花鸡排拼樱桃肉",
+          "section": "六、其他菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：六、其他菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "百鸟朝凤",
+          "section": "六、其他菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：六、其他菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "板栗山鸡",
+          "section": "三、禽蛋菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：三、禽蛋菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "爆炒腰花",
+          "section": "二、肉菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：二、肉菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "爆鱼丁",
+          "section": "四、水产菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：四、水产菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "冰糖鲜莲",
+          "section": "五、植物菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：五、植物菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "冰糖银耳",
+          "section": "五、植物菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：五、植物菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "冰糖肘子",
+          "section": "二、肉菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：二、肉菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "博山豆腐箱",
+          "section": "六、其他菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：六、其他菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "彩云鱼肚",
+          "section": "一、山珍海味菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：一、山珍海味菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "炒鸡米",
+          "section": "三、禽蛋菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：三、禽蛋菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "炒鸡丝",
+          "section": "三、禽蛋菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：三、禽蛋菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "炒鸡丝蜇头",
+          "section": "三、禽蛋菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：三、禽蛋菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "炒金针",
+          "section": "五、植物菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：五、植物菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "炒肉丝拉皮",
+          "section": "二、肉菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：二、肉菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "炒三泥",
+          "section": "五、植物菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：五、植物菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "炒虾片",
+          "section": "四、水产菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：四、水产菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "炒虾丝",
+          "section": "四、水产菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：四、水产菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "炒原汁虾仁",
+          "section": "四、水产菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：四、水产菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "捶烩鸡片",
+          "section": "三、禽蛋菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：三、禽蛋菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "葱爆羊肉丁",
+          "section": "二、肉菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：二、肉菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "葱烧海参",
+          "section": "一、山珍海味菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：一、山珍海味菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "醋椒桂鱼",
+          "section": "四、水产菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：四、水产菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "汆发菜三丝",
+          "section": "五、植物菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：五、植物菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "汆芙蓉黄管",
+          "section": "二、肉菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：二、肉菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "汆西施舌",
+          "section": "四、水产菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：四、水产菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "汆虾蘑海",
+          "section": "一、山珍海味菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：一、山珍海味菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "脆炸网油卷",
+          "section": "二、肉菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：二、肉菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "单县羊肉汤",
+          "section": "二、肉菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：二、肉菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "德州五香脱骨扒鸡",
+          "section": "三、禽蛋菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：三、禽蛋菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "冬菇烧蹄筋",
+          "section": "二、肉菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：二、肉菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "冬瓜盅",
+          "section": "六、其他菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：六、其他菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "豆豉肉",
+          "section": "二、肉菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：二、肉菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "豆豉烧鲫鱼",
+          "section": "四、水产菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：四、水产菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "番茄松鼠鱼",
+          "section": "四、水产菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：四、水产菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "凤凰鱼翅",
+          "section": "一、山珍海味菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：一、山珍海味菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "凤尾金鱼",
+          "section": "四、水产菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：四、水产菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "芙蓉干贝",
+          "section": "一、山珍海味菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：一、山珍海味菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "芙蓉菊蟹",
+          "section": "四、水产菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：四、水产菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "浮油鸡片",
+          "section": "三、禽蛋菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：三、禽蛋菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "福山烧小鸡",
+          "section": "三、禽蛋菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：三、禽蛋菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "干烂虾仁",
+          "section": "四、水产菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：四、水产菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "干炸赤鳞鱼",
+          "section": "一、山珍海味菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：一、山珍海味菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "挂霜丸子",
+          "section": "二、肉菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：二、肉菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "锅烧鸡",
+          "section": "三、禽蛋菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：三、禽蛋菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "锅烧鸭",
+          "section": "三、禽蛋菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：三、禽蛋菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "锅烧肘子",
+          "section": "二、肉菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：二、肉菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "锅塌黄鱼",
+          "section": "四、水产菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：四、水产菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "锅塌鸡片",
+          "section": "三、禽蛋菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：三、禽蛋菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "锅塌鸡签",
+          "section": "三、禽蛋菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：三、禽蛋菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "锅塌蒲菜",
+          "section": "五、植物菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：五、植物菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "锅塌三鲜菜盒",
+          "section": "六、其他菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：六、其他菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "锅塌腰盒",
+          "section": "二、肉菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：二、肉菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "锅塌鱼盒",
+          "section": "四、水产菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：四、水产菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "海参肘子",
+          "section": "一、山珍海味菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：一、山珍海味菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "海米珍珠笋",
+          "section": "五、植物菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：五、植物菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "荷花金鱼虾",
+          "section": "四、水产菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：四、水产菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "荷花鱼翅",
+          "section": "一、山珍海味菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：一、山珍海味菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "荷叶米粉鸡",
+          "section": "三、禽蛋菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：三、禽蛋菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "荷叶肉",
+          "section": "二、肉菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：二、肉菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "红扒熊掌",
+          "section": "一、山珍海味菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：一、山珍海味菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "红扒鱼翅",
+          "section": "一、山珍海味菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：一、山珍海味菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "红烧海螺",
+          "section": "四、水产菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：四、水产菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "红烧甲鱼",
+          "section": "四、水产菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：四、水产菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "红烧鱼唇",
+          "section": "一、山珍海味菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：一、山珍海味菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "红烧鱼皮",
+          "section": "一、山珍海味菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：一、山珍海味菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "猴头蘑煨鸡",
+          "section": "一、山珍海味菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：一、山珍海味菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "蝴蝶海参",
+          "section": "一、山珍海味菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：一、山珍海味菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "琥珀莲子",
+          "section": "五、植物菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：五、植物菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "滑炒里脊丝",
+          "section": "二、肉菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：二、肉菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "黄焖全鸡",
+          "section": "三、禽蛋菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：三、禽蛋菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "黄焖鸭肝",
+          "section": "三、禽蛋菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：三、禽蛋菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "烩鸭四宝",
+          "section": "三、禽蛋菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：三、禽蛋菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "火爆燎肉",
+          "section": "二、肉菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：二、肉菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "鸡里爆",
+          "section": "三、禽蛋菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：三、禽蛋菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "鸡茸海蜇",
+          "section": "四、水产菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：四、水产菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "鸡茸鱼骨",
+          "section": "一、山珍海味菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：一、山珍海味菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "鸡蓉虾仁",
+          "section": "四、水产菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：四、水产菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "鸡汁牛蛙籽",
+          "section": "四、水产菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：四、水产菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "荠菜黄鱼卷",
+          "section": "四、水产菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：四、水产菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "荠菜烧冬笋",
+          "section": "五、植物菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：五、植物菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "煎雏肉",
+          "section": "二、肉菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：二、肉菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "煎烹虾饼",
+          "section": "四、水产菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：四、水产菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "煎蒸黄鱼",
+          "section": "四、水产菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：四、水产菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "酱汁鸭方",
+          "section": "三、禽蛋菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：三、禽蛋菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "酱渍鳎目鱼",
+          "section": "四、水产菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：四、水产菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "金蟾戏荷花",
+          "section": "三、禽蛋菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：三、禽蛋菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "金银裹蛎子",
+          "section": "四、水产菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：四、水产菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "金鱼鸭掌",
+          "section": "三、禽蛋菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：三、禽蛋菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "九转大肠",
+          "section": "二、肉菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：二、肉菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "韭黄烧蛏子",
+          "section": "四、水产菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：四、水产菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "菊花锅",
+          "section": "六、其他菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：六、其他菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "菊花全蝎",
+          "section": "一、山珍海味菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：一、山珍海味菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "菊花虾仁",
+          "section": "四、水产菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：四、水产菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "烤花揽桂鱼",
+          "section": "四、水产菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：四、水产菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "烤加吉鱼",
+          "section": "四、水产菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：四、水产菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "烤网油签",
+          "section": "二、肉菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：二、肉菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "烤小鸡",
+          "section": "三、禽蛋菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：三、禽蛋菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "烤整兔",
+          "section": "二、肉菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：二、肉菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "㸆大虾",
+          "section": "四、水产菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：四、水产菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "㸆红果",
+          "section": "五、植物菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：五、植物菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "空心琉璃丸子",
+          "section": "五、植物菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：五、植物菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "孔雀开屏",
+          "section": "六、其他菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：六、其他菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "口蘑扒鱼脯",
+          "section": "四、水产菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：四、水产菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "口蘑椒油小白菜",
+          "section": "五、植物菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：五、植物菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "口蘑烧蒲菜",
+          "section": "五、植物菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：五、植物菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "侉炖加吉鱼",
+          "section": "四、水产菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：四、水产菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "侉炖驼峰",
+          "section": "一、山珍海味菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：一、山珍海味菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "辣爆蛏子",
+          "section": "四、水产菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：四、水产菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "栗子烧白菜",
+          "section": "五、植物菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：五、植物菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "溜蟹黄",
+          "section": "四、水产菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：四、水产菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "溜鱼片",
+          "section": "四、水产菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：四、水产菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "龙凤双腿",
+          "section": "三、禽蛋菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：三、禽蛋菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "龙潭钓玉牌",
+          "section": "六、其他菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：六、其他菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "龙眼凤肝",
+          "section": "二、肉菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：二、肉菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "罗汉面筋琵琶虾",
+          "section": "六、其他菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：六、其他菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "萝卜鱼",
+          "section": "四、水产菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：四、水产菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "落叶琵琶虾",
+          "section": "四、水产菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：四、水产菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "麻粉肘子",
+          "section": "二、肉菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：二、肉菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "麻酱紫鲍",
+          "section": "一、山珍海味菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：一、山珍海味菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "玛瑙银杏",
+          "section": "五、植物菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：五、植物菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "蜜三果",
+          "section": "五、植物菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：五、植物菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "蜜汁肥桃",
+          "section": "五、植物菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：五、植物菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "蜜汁金枣",
+          "section": "五、植物菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：五、植物菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "苜蓿蛏子",
+          "section": "四、水产菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：四、水产菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "奶汤八宝布袋鸡",
+          "section": "三、禽蛋菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：三、禽蛋菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "奶汤桂鱼",
+          "section": "四、水产菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：四、水产菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "奶汤核桃肉",
+          "section": "二、肉菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：二、肉菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "奶汤蒲菜",
+          "section": "五、植物菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：五、植物菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "奶汤鲜核桃仁",
+          "section": "五、植物菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：五、植物菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "酿荷包鸡蛋",
+          "section": "三、禽蛋菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：三、禽蛋菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "酿荷包鲫鱼",
+          "section": "四、水产菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：四、水产菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "酿茄斗",
+          "section": "五、植物菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：五、植物菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "酿银瓜",
+          "section": "五、植物菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：五、植物菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "拼八宝",
+          "section": "六、其他菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：六、其他菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "脯酥全鱼",
+          "section": "四、水产菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：四、水产菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "七星螃蟹",
+          "section": "四、水产菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：四、水产菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "清汆蛎子",
+          "section": "四、水产菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：四、水产菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "清汆丸子",
+          "section": "二、肉菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：二、肉菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "清炖甲鱼",
+          "section": "四、水产菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：四、水产菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "清汤鸡蒙冬菇",
+          "section": "三、禽蛋菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：三、禽蛋菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "清汤柳叶燕菜",
+          "section": "一、山珍海味菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：一、山珍海味菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "清汤全家福",
+          "section": "六、其他菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：六、其他菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "清炸大肠",
+          "section": "二、肉菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：二、肉菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "清炸黄河刀鱼",
+          "section": "四、水产菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：四、水产菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "清蒸八宝甲鱼",
+          "section": "四、水产菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：四、水产菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "清蒸加吉鱼",
+          "section": "四、水产菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：四、水产菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "清蒸龙骨大虾",
+          "section": "一、山珍海味菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：一、山珍海味菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "全爆",
+          "section": "二、肉菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：二、肉菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "全虾三做",
+          "section": "四、水产菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：四、水产菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "群蝶戏牡丹",
+          "section": "四、水产菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：四、水产菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "软烧豆腐",
+          "section": "五、植物菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：五、植物菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "软炸虾腰",
+          "section": "三、禽蛋菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：三、禽蛋菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "软炸鲜贝",
+          "section": "一、山珍海味菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：一、山珍海味菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "软炸腰花",
+          "section": "二、肉菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：二、肉菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "赛螃蟹",
+          "section": "四、水产菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：四、水产菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "三彩大虾",
+          "section": "四、水产菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：四、水产菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "三美豆腐",
+          "section": "五、植物菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：五、植物菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "三色鸡鱼丸",
+          "section": "六、其他菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：六、其他菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "三鲜鹌鹑蛋",
+          "section": "三、禽蛋菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：三、禽蛋菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "三鲜酿面筋",
+          "section": "六、其他菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：六、其他菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "砂锅三味",
+          "section": "六、其他菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：六、其他菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "山东蒸丸",
+          "section": "二、肉菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：二、肉菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "烧鸡酥",
+          "section": "三、禽蛋菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：三、禽蛋菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "烧罗汉面筋",
+          "section": "五、植物菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：五、植物菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "烧麦爆乌鱼花",
+          "section": "六、其他菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：六、其他菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "烧素鱼翅",
+          "section": "五、植物菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：五、植物菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "烧五丝",
+          "section": "六、其他菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：六、其他菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "什锦蜂窝豆腐",
+          "section": "五、植物菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：五、植物菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "什锦西瓜花篮",
+          "section": "五、植物菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：五、植物菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "什锦一品锅",
+          "section": "六、其他菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：六、其他菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "寿字鸭羹",
+          "section": "三、禽蛋菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：三、禽蛋菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "双色鱿鱼卷",
+          "section": "四、水产菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：四、水产菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "双味蹄筋",
+          "section": "二、肉菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：二、肉菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "水焖鸡蛋",
+          "section": "三、禽蛋菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：三、禽蛋菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "四龙相会",
+          "section": "四、水产菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：四、水产菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "四喜丸子",
+          "section": "二、肉菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：二、肉菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "四喜鸭子",
+          "section": "三、禽蛋菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：三、禽蛋菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "四喜鱼卷",
+          "section": "四、水产菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：四、水产菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "酥炸春花肉",
+          "section": "二、肉菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：二、肉菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "酥炸蹄筋",
+          "section": "二、肉菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：二、肉菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "素锅烤鸭",
+          "section": "五、植物菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：五、植物菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "素火腿",
+          "section": "五、植物菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：五、植物菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "素卷肘",
+          "section": "五、植物菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：五、植物菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "坛子肉",
+          "section": "二、肉菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：二、肉菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "汤爆双脆",
+          "section": "二、肉菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：二、肉菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "糖醋黄河鲤鱼",
+          "section": "四、水产菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：四、水产菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "糖醋鱼条",
+          "section": "四、水产菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：四、水产菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "糖酱鸡块",
+          "section": "三、禽蛋菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：三、禽蛋菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "糖溜鲤鱼",
+          "section": "四、水产菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：四、水产菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "雾溜桂鱼",
+          "section": "四、水产菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：四、水产菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "虾子茭白",
+          "section": "六、其他菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：六、其他菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "鲜贝冬瓜球",
+          "section": "一、山珍海味菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：一、山珍海味菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "香酥鸡",
+          "section": "三、禽蛋菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：三、禽蛋菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "象眼鸽蛋",
+          "section": "三、禽蛋菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：三、禽蛋菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "蟹黄海参",
+          "section": "一、山珍海味菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：一、山珍海味菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "蟹黄蹄筋",
+          "section": "二、肉菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：二、肉菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "蟹黄鱼翅",
+          "section": "一、山珍海味菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：一、山珍海味菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "杏仁豆腐",
+          "section": "五、植物菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：五、植物菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "绣球干贝",
+          "section": "一、山珍海味菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：一、山珍海味菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "绣球全鱼",
+          "section": "四、水产菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：四、水产菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "雪里蕻烧茭白",
+          "section": "五、植物菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：五、植物菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "雪丽大蟹",
+          "section": "四、水产菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：四、水产菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "芫爆肚仁",
+          "section": "二、肉菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：二、肉菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "芫爆乌鱼条",
+          "section": "四、水产菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：四、水产菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "一品寿桃",
+          "section": "五、植物菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：五、植物菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "油爆大蛤",
+          "section": "四、水产菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：四、水产菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "油爆海螺",
+          "section": "四、水产菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：四、水产菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "油爆鸡丁",
+          "section": "三、禽蛋菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：三、禽蛋菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "油爆双脆",
+          "section": "二、肉菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：二、肉菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "油爆鲜贝",
+          "section": "一、山珍海味菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：一、山珍海味菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "油爆鱼芹",
+          "section": "四、水产菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：四、水产菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "油焖凤尾鱼",
+          "section": "四、水产菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：四、水产菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "油泼鸡",
+          "section": "三、禽蛋菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：三、禽蛋菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "鱿鱼松子",
+          "section": "四、水产菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：四、水产菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "鱼包三丝",
+          "section": "四、水产菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：四、水产菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "鱼腹藏羊肉",
+          "section": "六、其他菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：六、其他菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "鸳鸯珍珠汤",
+          "section": "四、水产菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：四、水产菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "原壳鲍鱼",
+          "section": "一、山珍海味菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：一、山珍海味菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "云片鹿角菜",
+          "section": "五、植物菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：五、植物菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "糟炒厚鱼片",
+          "section": "四、水产菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：四、水产菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "炸菠菜脯",
+          "section": "五、植物菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：五、植物菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "炸蚕蛹鸡",
+          "section": "三、禽蛋菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：三、禽蛋菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "炸椿芽丸子",
+          "section": "二、肉菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：二、肉菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "炸大扁",
+          "section": "二、肉菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：二、肉菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "炸豆腐丸子",
+          "section": "五、植物菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：五、植物菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "炸凤尾虾排",
+          "section": "四、水产菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：四、水产菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "炸灌汤丸子",
+          "section": "二、肉菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：二、肉菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "炸藿香",
+          "section": "五、植物菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：五、植物菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "炸鸡椒",
+          "section": "三、禽蛋菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：三、禽蛋菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "炸蛎黄",
+          "section": "四、水产菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：四、水产菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "炸溜松花",
+          "section": "三、禽蛋菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：三、禽蛋菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "炸龙肠",
+          "section": "六、其他菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：六、其他菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "炸龙凤丝托",
+          "section": "六、其他菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：六、其他菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "炸素鸡排",
+          "section": "五、植物菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：五、植物菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "炸虾串",
+          "section": "四、水产菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：四、水产菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "炸虾铃",
+          "section": "四、水产菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：四、水产菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "炸鸳鸯嘎渣",
+          "section": "三、禽蛋菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：三、禽蛋菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "炸芝麻里脊",
+          "section": "二、肉菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：二、肉菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "炸脂盖",
+          "section": "二、肉菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：二、肉菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "涨蛋",
+          "section": "三、禽蛋菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：三、禽蛋菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "珍珠豆腐羹",
+          "section": "五、植物菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：五、植物菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "珍珠海参",
+          "section": "一、山珍海味菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：一、山珍海味菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "蒸扒三丝干贝",
+          "section": "一、山珍海味菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：一、山珍海味菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "整鱼两吃",
+          "section": "四、水产菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：四、水产菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "芝麻鱼球",
+          "section": "四、水产菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：四、水产菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "纸包鸡",
+          "section": "三、禽蛋菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：三、禽蛋菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "纸包三鲜",
+          "section": "六、其他菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：六、其他菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "纸包虾",
+          "section": "四、水产菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：四、水产菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "绉纱肉",
+          "section": "二、肉菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：二、肉菜",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "抓炒鱼仁",
+          "section": "四、水产菜",
+          "sourceUrl": "https://book.douban.com/subject/20391487/",
+          "locator": "公开目录：四、水产菜",
+          "nameNeedsReview": false
+        }
+      ],
+      "importedCount": 269
+    },
+    {
+      "id": "jiangsu",
+      "title": "中国名菜谱·江苏风味",
+      "region": "江苏",
+      "cuisine": "jiangsu",
+      "isbn": "9787500510505",
+      "url": "https://book.douban.com/subject/35881500/",
+      "coverage": "metadata-only",
+      "coverageNote": "已核实分册书目，尚未获得可核对的完整菜品目录。",
+      "entries": [],
+      "importedCount": 0
+    },
+    {
+      "id": "zhejiang",
+      "title": "中国名菜谱·浙江风味",
+      "region": "浙江",
+      "cuisine": "zhejiang",
+      "isbn": "9787500502494",
+      "url": "https://book.douban.com/subject/20391490/",
+      "coverage": "partial-toc",
+      "coverageNote": "仅导入公开预览可见的部分目录，后续条目待补充。",
+      "entries": [
+        {
+          "name": "扒八珍",
+          "rawName": "扒八珍",
+          "section": "山珍海味菜",
+          "sourceUrl": "https://max.book118.com/html/2015/0707/20593655.shtm",
+          "locator": "公开目录第 13 项（非页码）",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "白汁鲍脯",
+          "rawName": "白汁鲍脯",
+          "section": "山珍海味菜",
+          "sourceUrl": "https://max.book118.com/html/2015/0707/20593655.shtm",
+          "locator": "公开目录第 7 项（非页码）",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "白字焖肉",
+          "rawName": "白字焖肉",
+          "section": "肉菜",
+          "sourceUrl": "https://max.book118.com/html/2015/0707/20593655.shtm",
+          "locator": "公开目录第 33 项（非页码）",
+          "nameNeedsReview": true
+        },
+        {
+          "name": "冰糖明骨",
+          "rawName": "冰糖明骨",
+          "section": "山珍海味菜",
+          "sourceUrl": "https://max.book118.com/html/2015/0707/20593655.shtm",
+          "locator": "公开目录第 15 项（非页码）",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "炒芙蓉鲍片",
+          "rawName": "炒芙蓉鲍片",
+          "section": "山珍海味菜",
+          "sourceUrl": "https://max.book118.com/html/2015/0707/20593655.shtm",
+          "locator": "公开目录第 8 项（非页码）",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "东坡肉",
+          "rawName": "东坡肉",
+          "section": "肉菜",
+          "sourceUrl": "https://max.book118.com/html/2015/0707/20593655.shtm",
+          "locator": "公开目录第 31 项（非页码）",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "芙蓉燕窝",
+          "rawName": "芙蓉燕窝",
+          "section": "山珍海味菜",
+          "sourceUrl": "https://max.book118.com/html/2015/0707/20593655.shtm",
+          "locator": "公开目录第 2 项（非页码）",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "干菜焖肉",
+          "rawName": "干菜焖肉",
+          "section": "肉菜",
+          "sourceUrl": "https://max.book118.com/html/2015/0707/20593655.shtm",
+          "locator": "公开目录第 32 项（非页码）",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "鸽蛋鱼脑",
+          "rawName": "鸽蛋鱼脑",
+          "section": "山珍海味菜",
+          "sourceUrl": "https://max.book118.com/html/2015/0707/20593655.shtm",
+          "locator": "公开目录第 16 项（非页码）",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "红烧裙边",
+          "rawName": "红烧裙边",
+          "section": "山珍海味菜",
+          "sourceUrl": "https://max.book118.com/html/2015/0707/20593655.shtm",
+          "locator": "公开目录第 25 项（非页码）",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "猴头四宝",
+          "rawName": "猴头四宝",
+          "section": "山珍海味菜",
+          "sourceUrl": "https://max.book118.com/html/2015/0707/20593655.shtm",
+          "locator": "公开目录第 29 项（非页码）",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "黄鱼海参",
+          "rawName": "黄鱼海参",
+          "section": "山珍海味菜",
+          "sourceUrl": "https://max.book118.com/html/2015/0707/20593655.shtm",
+          "locator": "公开目录第 22 项（非页码）",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "黄鱼溜翅",
+          "rawName": "黄鱼溜翅",
+          "section": "山珍海味菜",
+          "sourceUrl": "https://max.book118.com/html/2015/0707/20593655.shtm",
+          "locator": "公开目录第 6 项（非页码）",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "火踵鱼翅",
+          "rawName": "火踵鱼翅",
+          "section": "山珍海味菜",
+          "sourceUrl": "https://max.book118.com/html/2015/0707/20593655.shtm",
+          "locator": "公开目录第 5 项（非页码）",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "鸡翅海参",
+          "rawName": "鸡翅海参",
+          "section": "山珍海味菜",
+          "sourceUrl": "https://max.book118.com/html/2015/0707/20593655.shtm",
+          "locator": "公开目录第 21 项（非页码）",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "鸡火鱼唇",
+          "rawName": "鸡火鱼唇",
+          "section": "山珍海味菜",
+          "sourceUrl": "https://max.book118.com/html/2015/0707/20593655.shtm",
+          "locator": "公开目录第 12 项（非页码）",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "鸡茸哈士蟆",
+          "rawName": "鸡茸哈士蟆",
+          "section": "山珍海味菜",
+          "sourceUrl": "https://max.book118.com/html/2015/0707/20593655.shtm",
+          "locator": "公开目录第 27 项（非页码）",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "鸡汁燕窝",
+          "rawName": "鸡汁燕窝",
+          "section": "山珍海味菜",
+          "sourceUrl": "https://max.book118.com/html/2015/0707/20593655.shtm",
+          "locator": "公开目录第 1 项（非页码）",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "鸡汁鱼唇",
+          "rawName": "鸡汁鱼唇",
+          "section": "山珍海味菜",
+          "sourceUrl": "https://max.book118.com/html/2015/0707/20593655.shtm",
+          "locator": "公开目录第 10 项（非页码）",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "桔络明骨",
+          "rawName": "桔络明骨",
+          "section": "山珍海味菜",
+          "sourceUrl": "https://max.book118.com/html/2015/0707/20593655.shtm",
+          "locator": "公开目录第 14 项（非页码）",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "芥菜鱼肚",
+          "rawName": "芥菜鱼肚",
+          "section": "山珍海味菜",
+          "sourceUrl": "https://max.book118.com/html/2015/0707/20593655.shtm",
+          "locator": "公开目录第 9 项（非页码）",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "金钱鲜贝合",
+          "rawName": "金钱鲜贝合",
+          "section": "山珍海味菜",
+          "sourceUrl": "https://max.book118.com/html/2015/0707/20593655.shtm",
+          "locator": "公开目录第 24 项（非页码）",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "金腿猴蘑",
+          "rawName": "金腿猴蘑",
+          "section": "山珍海味菜",
+          "sourceUrl": "https://max.book118.com/html/2015/0707/20593655.shtm",
+          "locator": "公开目录第 30 项（非页码）",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "清扒鱼翅",
+          "rawName": "清扒鱼翅",
+          "section": "山珍海味菜",
+          "sourceUrl": "https://max.book118.com/html/2015/0707/20593655.shtm",
+          "locator": "公开目录第 3 项（非页码）",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "清蒸干贝",
+          "rawName": "清蒸干贝",
+          "section": "山珍海味菜",
+          "sourceUrl": "https://max.book118.com/html/2015/0707/20593655.shtm",
+          "locator": "公开目录第 23 项（非页码）",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "人参乌骨鸡",
+          "rawName": "人参乌骨鸡",
+          "section": "山珍海味菜",
+          "sourceUrl": "https://max.book118.com/html/2015/0707/20593655.shtm",
+          "locator": "公开目录第 26 项（非页码）",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "三鲜海参",
+          "rawName": "三鲜海参",
+          "section": "山珍海味菜",
+          "sourceUrl": "https://max.book118.com/html/2015/0707/20593655.shtm",
+          "locator": "公开目录第 20 项（非页码）",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "沙锅鱼唇",
+          "rawName": "沙锅鱼唇",
+          "section": "山珍海味菜",
+          "sourceUrl": "https://max.book118.com/html/2015/0707/20593655.shtm",
+          "locator": "公开目录第 11 项（非页码）",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "绍式小扣",
+          "rawName": "绍式小扣",
+          "section": "肉菜",
+          "sourceUrl": "https://max.book118.com/html/2015/0707/20593655.shtm",
+          "locator": "公开目录第 34 项（非页码）",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "蒜子鱼皮",
+          "rawName": "蒜子鱼皮",
+          "section": "山珍海味菜",
+          "sourceUrl": "https://max.book118.com/html/2015/0707/20593655.shtm",
+          "locator": "公开目录第 17 项（非页码）",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "苔菜小方",
+          "rawName": "苔菜小方？",
+          "section": "肉菜",
+          "sourceUrl": "https://max.book118.com/html/2015/0707/20593655.shtm",
+          "locator": "公开目录第 35 项（非页码）",
+          "nameNeedsReview": true
+        },
+        {
+          "name": "虾仁鱼皮",
+          "rawName": "虾仁鱼皮",
+          "section": "山珍海味菜",
+          "sourceUrl": "https://max.book118.com/html/2015/0707/20593655.shtm",
+          "locator": "公开目录第 18 项（非页码）",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "虾子扒刺参",
+          "rawName": "虾子扒刺参",
+          "section": "山珍海味菜",
+          "sourceUrl": "https://max.book118.com/html/2015/0707/20593655.shtm",
+          "locator": "公开目录第 19 项（非页码）",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "蟹粉鱼翅",
+          "rawName": "蟹粉鱼翅",
+          "section": "山珍海味菜",
+          "sourceUrl": "https://max.book118.com/html/2015/0707/20593655.shtm",
+          "locator": "公开目录第 4 项（非页码）",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "枣莲炖雪哈",
+          "rawName": "枣莲炖雪哈",
+          "section": "山珍海味菜",
+          "sourceUrl": "https://max.book118.com/html/2015/0707/20593655.shtm",
+          "locator": "公开目录第 28 项（非页码）",
+          "nameNeedsReview": false
+        }
+      ],
+      "importedCount": 35
+    },
+    {
+      "id": "fujian",
+      "title": "中国名菜谱·福建风味",
+      "region": "福建",
+      "cuisine": "fujian",
+      "isbn": "9787500501824",
+      "url": "https://book.douban.com/subject/4119259/",
+      "coverage": "metadata-only",
+      "coverageNote": "已核实分册书目，尚未获得可核对的完整菜品目录。",
+      "entries": [],
+      "importedCount": 0
+    },
+    {
+      "id": "hunan",
+      "title": "中国名菜谱·湖南风味",
+      "region": "湖南",
+      "cuisine": "hunan",
+      "isbn": "9787500502135",
+      "url": "https://book.douban.com/subject/5420208/",
+      "coverage": "metadata-only",
+      "coverageNote": "已核实分册书目，尚未获得可核对的完整菜品目录。",
+      "entries": [],
+      "importedCount": 0
+    },
+    {
+      "id": "anhui",
+      "title": "中国名菜谱·安徽风味",
+      "region": "安徽",
+      "cuisine": "anhui",
+      "isbn": "9787500501848",
+      "url": "https://book.douban.com/subject/20391489/",
+      "coverage": "metadata-only",
+      "coverageNote": "已核实分册书目，尚未获得可核对的完整菜品目录。",
+      "entries": [],
+      "importedCount": 0
+    },
+    {
+      "id": "beijing",
+      "title": "中国名菜谱·北京风味",
+      "region": "北京",
+      "cuisine": "beijing",
+      "isbn": "9787500501831",
+      "url": "https://book.douban.com/subject/4119251/",
+      "coverage": "partial-toc",
+      "coverageNote": "仅导入公开预览可见的部分目录，后续条目待补充。",
+      "entries": [
+        {
+          "name": "白扒燕菜卷",
+          "rawName": "白扒燕菜卷",
+          "section": "山珍海味菜",
+          "sourceUrl": "https://max.book118.com/html/2015/0707/8045005073000024.shtm",
+          "locator": "公开目录第 2 项（非页码）",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "汆银耳鸭舌",
+          "rawName": "汆银耳鸭舌",
+          "section": "山珍海味菜",
+          "sourceUrl": "https://max.book118.com/html/2015/0707/8045005073000024.shtm",
+          "locator": "公开目录第 10 项（非页码）",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "海红鱼唇",
+          "rawName": "海红鱼唇",
+          "section": "山珍海味菜",
+          "sourceUrl": "https://max.book118.com/html/2015/0707/8045005073000024.shtm",
+          "locator": "公开目录第 3 项（非页码）",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "红烧驼掌",
+          "rawName": "红烧驼掌",
+          "section": "山珍海味菜",
+          "sourceUrl": "https://max.book118.com/html/2015/0707/8045005073000024.shtm",
+          "locator": "公开目录第 7 项（非页码）",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "红烧熊掌",
+          "rawName": "红烧熊掌",
+          "section": "山珍海味菜",
+          "sourceUrl": "https://max.book118.com/html/2015/0707/8045005073000024.shtm",
+          "locator": "公开目录第 4 项（非页码）",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "黄焖鱼翅",
+          "rawName": "黄焖鱼翅",
+          "section": "山珍海味菜",
+          "sourceUrl": "https://max.book118.com/html/2015/0707/8045005073000024.shtm",
+          "locator": "公开目录第 12 项（非页码）",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "鸡米鹿筋",
+          "rawName": "鸡米鹿筋",
+          "section": "山珍海味菜",
+          "sourceUrl": "https://max.book118.com/html/2015/0707/8045005073000024.shtm",
+          "locator": "公开目录第 6 项（非页码）",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "鸡茸银耳",
+          "rawName": "鸡茸银耳",
+          "section": "山珍海味菜",
+          "sourceUrl": "https://max.book118.com/html/2015/0707/8045005073000024.shtm",
+          "locator": "公开目录第 9 项（非页码）",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "鹿茸三珍",
+          "rawName": "鹿茸三珍",
+          "section": "山珍海味菜",
+          "sourceUrl": "https://max.book118.com/html/2015/0707/8045005073000024.shtm",
+          "locator": "公开目录第 5 项（非页码）",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "清炒驼峰丝",
+          "rawName": "清炒驼峰丝",
+          "section": "山珍海味菜",
+          "sourceUrl": "https://max.book118.com/html/2015/0707/8045005073000024.shtm",
+          "locator": "公开目录第 8 项（非页码）",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "清汤燕菜",
+          "rawName": "清汤燕菜",
+          "section": "山珍海味菜",
+          "sourceUrl": "https://max.book118.com/html/2015/0707/8045005073000024.shtm",
+          "locator": "公开目录第 1 项（非页码）",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "清汤银耳",
+          "rawName": "清汤银耳",
+          "section": "山珍海味菜",
+          "sourceUrl": "https://max.book118.com/html/2015/0707/8045005073000024.shtm",
+          "locator": "公开目录第 11 项（非页码）",
+          "nameNeedsReview": false
+        }
+      ],
+      "importedCount": 12
+    },
+    {
+      "id": "tianjin",
+      "title": "中国名菜谱·天津风味",
+      "region": "天津",
+      "cuisine": "tianjin",
+      "isbn": "9787500521136",
+      "url": "https://book.douban.com/subject/5420205/",
+      "coverage": "metadata-only",
+      "coverageNote": "已核实分册书目，尚未获得可核对的完整菜品目录。",
+      "entries": [],
+      "importedCount": 0
+    },
+    {
+      "id": "shanghai",
+      "title": "中国名菜谱·上海风味",
+      "region": "上海",
+      "cuisine": "shanghai",
+      "isbn": "9787500517306",
+      "url": "https://book.douban.com/subject/35881503/",
+      "coverage": "metadata-only",
+      "coverageNote": "已核实分册书目，尚未获得可核对的完整菜品目录。",
+      "entries": [],
+      "importedCount": 0
+    },
+    {
+      "id": "hubei",
+      "title": "中国名菜谱·湖北风味",
+      "region": "湖北",
+      "cuisine": "hubei",
+      "isbn": "9787500508557",
+      "url": "https://book.douban.com/subject/20391488/",
+      "coverage": "metadata-only",
+      "coverageNote": "已核实分册书目，尚未获得可核对的完整菜品目录。",
+      "entries": [],
+      "importedCount": 0
+    },
+    {
+      "id": "henan",
+      "title": "中国名菜谱·河南风味",
+      "region": "河南",
+      "cuisine": "henan",
+      "isbn": "9787500511168",
+      "url": "https://book.douban.com/subject/20391491/",
+      "coverage": "partial-toc",
+      "coverageNote": "仅导入公开预览可见的部分目录，后续条目待补充。",
+      "entries": [
+        {
+          "name": "扒猴头",
+          "rawName": "扒猴头",
+          "section": "山珍海味菜",
+          "sourceUrl": "https://max.book118.com/html/2017/1115/140118052.shtm",
+          "locator": "公开目录第 7 项（非页码）",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "扒竹荪带底",
+          "rawName": "扒竹荪带底",
+          "section": "山珍海味菜",
+          "sourceUrl": "https://max.book118.com/html/2017/1115/140118052.shtm",
+          "locator": "公开目录第 4 项（非页码）",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "白扒鱼翅",
+          "rawName": "白扒鱼翅",
+          "section": "山珍海味菜",
+          "sourceUrl": "https://max.book118.com/html/2017/1115/140118052.shtm",
+          "locator": "公开目录第 14 项（非页码）",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "猴头干贝",
+          "rawName": "猴头干贝",
+          "section": "山珍海味菜",
+          "sourceUrl": "https://max.book118.com/html/2017/1115/140118052.shtm",
+          "locator": "公开目录第 10 项（非页码）",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "火腿扒鹿筋",
+          "rawName": "火腿扒鹿筋",
+          "section": "山珍海味菜",
+          "sourceUrl": "https://max.book118.com/html/2017/1115/140118052.shtm",
+          "locator": "公开目录第 11 项（非页码）",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "鸡茸酿竹荪",
+          "rawName": "鸡茸酿竹荪",
+          "section": "山珍海味菜",
+          "sourceUrl": "https://max.book118.com/html/2017/1115/140118052.shtm",
+          "locator": "公开目录第 5 项（非页码）",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "丽参鹿筋汆鱼丸",
+          "rawName": "丽参鹿筋汆鱼丸",
+          "section": "山珍海味菜",
+          "sourceUrl": "https://max.book118.com/html/2017/1115/140118052.shtm",
+          "locator": "公开目录第 12 项（非页码）",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "奶汤炖熊掌",
+          "rawName": "奶汤炖熊掌",
+          "section": "山珍海味菜",
+          "sourceUrl": "https://max.book118.com/html/2017/1115/140118052.shtm",
+          "locator": "公开目录第 2 项（非页码）",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "清汤燕菜",
+          "rawName": "清汤燕菜",
+          "section": "山珍海味菜",
+          "sourceUrl": "https://max.book118.com/html/2017/1115/140118052.shtm",
+          "locator": "公开目录第 13 项（非页码）",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "清汤竹荪",
+          "rawName": "清汤竹荪",
+          "section": "山珍海味菜",
+          "sourceUrl": "https://max.book118.com/html/2017/1115/140118052.shtm",
+          "locator": "公开目录第 3 项（非页码）",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "三丝网包鱼翅",
+          "rawName": "三丝网包鱼翅",
+          "section": "山珍海味菜",
+          "sourceUrl": "https://max.book118.com/html/2017/1115/140118052.shtm",
+          "locator": "公开目录第 15 项（非页码）",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "烧酿猴头",
+          "rawName": "烧酿猴头",
+          "section": "山珍海味菜",
+          "sourceUrl": "https://max.book118.com/html/2017/1115/140118052.shtm",
+          "locator": "公开目录第 6 项（非页码）",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "烧酿羊素肚",
+          "rawName": "烧酿羊素肚",
+          "section": "山珍海味菜",
+          "sourceUrl": "https://max.book118.com/html/2017/1115/140118052.shtm",
+          "locator": "公开目录第 9 项（非页码）",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "银珠扒熊掌",
+          "rawName": "银珠扒熊掌",
+          "section": "山珍海味菜",
+          "sourceUrl": "https://max.book118.com/html/2017/1115/140118052.shtm",
+          "locator": "公开目录第 1 项（非页码）",
+          "nameNeedsReview": false
+        },
+        {
+          "name": "玉珠双珍",
+          "rawName": "玉珠双珍",
+          "section": "山珍海味菜",
+          "sourceUrl": "https://max.book118.com/html/2017/1115/140118052.shtm",
+          "locator": "公开目录第 8 项（非页码）",
+          "nameNeedsReview": false
+        }
+      ],
+      "importedCount": 15
+    },
+    {
+      "id": "shaanxi",
+      "title": "中国名菜谱·陕西风味",
+      "region": "陕西",
+      "cuisine": "shaanxi",
+      "isbn": "9787500517351",
+      "url": "https://book.douban.com/subject/3934760/",
+      "coverage": "metadata-only",
+      "coverageNote": "已核实分册书目，尚未获得可核对的完整菜品目录。",
+      "entries": [],
+      "importedCount": 0
+    },
+    {
+      "id": "yunnan",
+      "title": "中国名菜谱·云南风味",
+      "region": "云南",
+      "cuisine": "yunnan",
+      "isbn": "9787500520726",
+      "url": "https://book.douban.com/subject/35881501/",
+      "coverage": "metadata-only",
+      "coverageNote": "已核实分册书目，尚未获得可核对的完整菜品目录。",
+      "entries": [],
+      "importedCount": 0
+    },
+    {
+      "id": "liaoning",
+      "title": "中国名菜谱·辽宁风味",
+      "region": "辽宁",
+      "cuisine": "liaoning",
+      "isbn": "9787500527473",
+      "url": "https://book.douban.com/subject/35881499/",
+      "coverage": "metadata-only",
+      "coverageNote": "已核实分册书目，尚未获得可核对的完整菜品目录。",
+      "entries": [],
+      "importedCount": 0
+    },
+    {
+      "id": "heilongjiang",
+      "title": "中国名菜谱·黑龙江风味",
+      "region": "黑龙江",
+      "cuisine": "heilongjiang",
+      "isbn": "9787500527367",
+      "url": "https://book.douban.com/subject/35881502/",
+      "coverage": "metadata-only",
+      "coverageNote": "已核实分册书目，尚未获得可核对的完整菜品目录。",
+      "entries": [],
+      "importedCount": 0
+    },
+    {
+      "id": "vegetarian",
+      "title": "中国名菜谱·素菜",
+      "region": null,
+      "cuisine": null,
+      "isbn": "9787500518839",
+      "url": "https://book.douban.com/subject/5420207/",
+      "coverage": "metadata-only",
+      "coverageNote": "已核实分册书目，尚未获得可核对的完整菜品目录。",
+      "entries": [],
+      "importedCount": 0
+    }
+  ]
+}
